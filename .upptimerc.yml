@@ -15,8 +15,8 @@ sites:
     url: https://www.youtube.com
   - name: netflix
     url: https://www.netflix.com/browse
-  - name: instagram
-    url: https://www.instagram.com
+  - name: medium
+    url: https://medium.com
   - name: facebook
     url: https://www.facebook.com
   - name: streetvoice
