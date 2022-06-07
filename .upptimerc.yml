@@ -11,6 +11,16 @@ sites:
     url: https://news.ycombinator.com
   - name: Test Broken Site
     url: https://thissitedoesnotexist.koj.co
+  - name: youtube
+    url: https://www.youtube.com
+  - name: netflix
+    url: https://www.netflix.com/browse
+  - name: instagram
+    url: https://www.instagram.com
+  - name: facebook
+    url: https://www.facebook.com
+  - name: streetvoice
+    url: https://streetvoice.com
 
 status-website:
   # Add your custom domain name, or remove the `cname` line if you don't have a domain
